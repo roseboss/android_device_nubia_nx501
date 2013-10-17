@@ -1,0 +1,16 @@
+/DDR		emmc		/dev/block/platform/msm_sdcc.1/by-name/DDR		defaults	defaults
+/aboot	emmc		/dev/block/platform/msm_sdcc.1/by-name/aboot	defaults	defaults
+/boot		emmc		/dev/block/platform/msm_sdcc.1/by-name/boot	defaults	defaults
+/system	ext4		/dev/block/platform/msm_sdcc.1/by-name/system	defaults	defaults
+/cache	ext4		/dev/block/platform/msm_sdcc.1/by-name/cache	defaults	defaults
+/data		ext4		/dev/block/platform/msm_sdcc.1/by-name/userdata	defaults	defaults
+/misc		emmc		/dev/block/platform/msm_sdcc.1/by-name/misc	defaults	defaults
+/recovery	emmc		/dev/block/platform/msm_sdcc.1/by-name/recovery	defaults	defaults
+/persist	ext4		/dev/block/platform/msm_sdcc.1/by-name/persist	defaults	defaults
+/sbl1		emmc		/dev/block/platform/msm_sdcc.1/by-name/sbl1	defaults	defaults
+/sbl2		emmc		/dev/block/platform/msm_sdcc.1/by-name/sbl2	defaults	defaults
+/sbl3		emmc		/dev/block/platform/msm_sdcc.1/by-name/sbl3	defaults	defaults
+/splash	emmc		/dev/block/platform/msm_sdcc.1/by-name/splash	defaults	defaults
+/tz		emmc		/dev/block/platform/msm_sdcc.1/by-name/tz		defaults	defaults
+/radio	emmc		/dev/block/platform/msm_sdcc.1/by-name/modem	defaults	defaults
+/sdcard	vfat		/dev/block/platform/msm_sdcc.1/by-name/grow	defaults	defaults
